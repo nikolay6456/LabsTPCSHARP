@@ -1,0 +1,11 @@
+/home/garry/RiderProjects/LabsTP/LabTPFirst/bin/Debug/netcoreapp2.1/LabTPFirst.deps.json
+/home/garry/RiderProjects/LabsTP/LabTPFirst/bin/Debug/netcoreapp2.1/LabTPFirst.runtimeconfig.json
+/home/garry/RiderProjects/LabsTP/LabTPFirst/bin/Debug/netcoreapp2.1/LabTPFirst.runtimeconfig.dev.json
+/home/garry/RiderProjects/LabsTP/LabTPFirst/bin/Debug/netcoreapp2.1/LabTPFirst.dll
+/home/garry/RiderProjects/LabsTP/LabTPFirst/bin/Debug/netcoreapp2.1/LabTPFirst.pdb
+/home/garry/RiderProjects/LabsTP/LabTPFirst/obj/Debug/netcoreapp2.1/LabTPFirst.csprojAssemblyReference.cache
+/home/garry/RiderProjects/LabsTP/LabTPFirst/obj/Debug/netcoreapp2.1/LabTPFirst.csproj.CoreCompileInputs.cache
+/home/garry/RiderProjects/LabsTP/LabTPFirst/obj/Debug/netcoreapp2.1/LabTPFirst.AssemblyInfoInputs.cache
+/home/garry/RiderProjects/LabsTP/LabTPFirst/obj/Debug/netcoreapp2.1/LabTPFirst.AssemblyInfo.cs
+/home/garry/RiderProjects/LabsTP/LabTPFirst/obj/Debug/netcoreapp2.1/LabTPFirst.dll
+/home/garry/RiderProjects/LabsTP/LabTPFirst/obj/Debug/netcoreapp2.1/LabTPFirst.pdb
